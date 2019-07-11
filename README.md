@@ -1,7 +1,7 @@
 # FilterBreakout
-A Breakout clone with filters
+A "Breakout" clone with filters
 
-All filters were implemented in software
+All filters were implemented in software, without the help of GPU.
 
 ## Controls:
 - 'Mouse' to move the paddle horizontally
